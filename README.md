@@ -14,4 +14,4 @@ Hora Final.
 * Un letrero que diga “el tiempo se ha terminado” cuando pasen 10 horas y treinta y
 un minutos desde el tiempo inicial.
 
-[Ejercicio1]([https://nodejs.org/es/](http://example.net/](https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicios.R))
+([Ejercicio 1](http://example.net/](https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicios.R))
