@@ -27,4 +27,5 @@ Variables de Salida
 * Solo se puede extraer montón con múltiplos de $ 5000
 * No se puede extraer montos mayores a $ 100.000
 
+https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicio2.R
 
