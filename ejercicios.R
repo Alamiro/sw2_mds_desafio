@@ -1,3 +1,5 @@
+# Mostrar intervalos de tiempo de 30 en 30 minutos hasta completar 10 horas y 31 minutos.
+
 # Metodo 1
 # hi = hora inicial
 # mi = minutos inicial
