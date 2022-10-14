@@ -29,3 +29,30 @@ Variables de Salida
 
 https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicio2.R
 
+## Ejercicio 3
+
+Variables de entrada
+* DataFrame con información de distintos compradores de poleras con las siguientes
+variables:
+* Cantidad
+* Variedades de diseño (Sin mangas, manga corta, manga larga)
+* Calidad (Baja, Media, Alta)
+* Valor unitario promedio
+Variables de Salida
+* Descuento en la facturación para cada comprador y el valor bruto a pagar.
+
+Contexto
+Usted posee un almacén que vende poleras al por mayor y menor, y realiza descuentos
+dependiendo de la compra basándose en la siguiente tabla:
+
+Descuentos 0 % 10 % 25 %
+
+Cantidad Menor a 100 101-500 Mayor a 500
+
+Variedad 1 variedad 2 3
+
+Calidad Baja Media Alta
+
+Los descuentos no son acumulables, se debe elegir el descuento mayor
+
+https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicio3v1.R
