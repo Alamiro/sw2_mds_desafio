@@ -7,7 +7,7 @@ Variables de entrada
 * Hora de Inicial
 * Minutos Inicial
 * Hora Final
-Variables de Salida
+**Variables de Salida**
 * Una lista con todas las horas y minutos de las medias horas posteriores hasta la
 Hora Final.
 * Un letrero que diga la hora Inicial y Hora Final
