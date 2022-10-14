@@ -16,4 +16,15 @@ un minutos desde el tiempo inicial.
 
 https://github.com/Alamiro/sw2_mds_desafio/blob/main/ejercicios.R
 
+## Ejercicio 2.
+
+Variables de entrada
+* Monto de Saldo en la cuenta
+* Monto de giro (extracción)
+Variables de Salida
+* Un letrero que diga el saldo
+* Un letrero que diga según el caso **Saldo Insuficiente**
+* Solo se puede extraer montón con múltiplos de $ 5000
+* No se puede extraer montos mayores a $ 100.000
+
 
