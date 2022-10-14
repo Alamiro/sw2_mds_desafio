@@ -10,7 +10,7 @@ mi = 44
 hf = 10 + hi
 mf = 30
 
-if (mi <= 30){
+if (mi < 30){
   print(paste("Iniciamos en : ", hi, ":", mi,"hrs"))
   print(paste("Terminamos en : ", hf, ":", mi+mf+1,"hrs"))
   for (i in hi:hf) {
@@ -21,7 +21,7 @@ if (mi <= 30){
     }
   } 
 }
-if (mi > 30){
+if (mi >= 30){
   print(paste("Iniciamos en : ", hi, ":", mi,"hrs"))
   print(paste("Terminamos en : ", hf+1, ":", mi-mf+1,"hrs"))
   for (i in hi:hf) {
