@@ -12,7 +12,6 @@
 # No se puede extraer montos mayores a $ 100.000
 
 saldo = 15000
-opcion <- 1
 giro = 100001
 billetes = 5000
 eval = giro/billetes
